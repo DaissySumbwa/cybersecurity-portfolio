@@ -1,6 +1,8 @@
-# Cybersecurity Portfolio
+# PROJECTS
 
-Welcome! This repository is my portfolio hub.
+Welcome to my corner of the internet where I break things professionally and fix them before anyone notices. This is a collection of my hands-on  projects, from hunting attackers in honeypots to building ML systems that tell overworked SOC analysts to go get some sleep.
+
+Pull up a chair. The firewall is already up
 
 ## Projects
 - BitLocker Encryption Deployment: https://github.com/pinkfirewall-exe/bitlocker-encryption-deployment
