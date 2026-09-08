@@ -8,5 +8,6 @@ Pull up a chair. The firewall is already up
 - BitLocker Encryption Deployment: https://github.com/pinkfirewall-exe/bitlocker-encryption-deployment
 - T-Pot Honeypot Analysis: https://github.com/pinkfirewall-exe/tpot-honeypot-analysis
 - Snort IDS Evasion: https://github.com/pinkfirewall-exe/snort-ids-evasion-detection
+- Ensemble ML IDS - SOC Alert Fatigue Reduction: https://github.com/pinkfirewall-exe/ensemble-ml-ids-alert-fatigue
 
 
